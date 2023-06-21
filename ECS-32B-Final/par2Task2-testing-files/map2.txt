@@ -1,0 +1,753 @@
+Shawneetown,UPS0,9
+Shawneetown,Bakerhill,25
+Shawneetown,McLaughlin,6
+Shawneetown,Wilber,7
+Shawneetown,Brickerville,22
+Shawneetown,McKees Rocks,11
+Shawneetown,Egg Harbor City,6
+Shawneetown,St. Benedict,14
+Shawneetown,Fort Edward,6
+Shawneetown,Grand Cane,0
+Shawneetown,Kokhanok,21
+Shawneetown,Valley Acres,25
+Shawneetown,Ipswich,27
+Shawneetown,Teton Village,26
+Shawneetown,UPS3,5
+Shawneetown,Bentleyville,21
+Shawneetown,UPS2,19
+Shawneetown,Lafayette,3
+Shawneetown,Theresa,16
+Shawneetown,Healdton,1
+Shawneetown,Winder,3
+Shawneetown,Jenks,18
+Shawneetown,Auburntown,26
+Shawneetown,Ladonia,20
+Shawneetown,Dixie Inn,29
+Shawneetown,Nephi,27
+Shawneetown,Country Club Heights,18
+Shawneetown,Sterling,20
+Shawneetown,Garfield,23
+Shawneetown,Tamms,9
+Shawneetown,Silverhill,24
+Shawneetown,Pingree,5
+Shawneetown,UPS1,26
+Shawneetown,Bear Valley,7
+Shawneetown,Port Salerno,29
+Shawneetown,Kingston Estates,16
+Shawneetown,Fairport Harbor,27
+Shawneetown,UPS4,5
+Shawneetown,Samak,19
+Shawneetown,Grandville,0
+Shawneetown,Mason,6
+Shawneetown,Allison Park,24
+Shawneetown,Haines City,1
+Shawneetown,Marlboro Meadows,22
+Shawneetown,St. Joe,14
+Shawneetown,Milburn,25
+Brickerville,Allison Park,25
+Brickerville,UPS2,15
+Brickerville,Grand Cane,3
+Brickerville,UPS3,15
+Brickerville,UPS1,6
+Brickerville,Auburntown,8
+Brickerville,Pingree,4
+Brickerville,Teton Village,7
+Brickerville,New Roads,27
+Brickerville,Wilber,29
+Brickerville,St. Benedict,29
+Brickerville,Sterling,24
+Brickerville,Bentleyville,27
+Brickerville,Nephi,28
+Brickerville,Ladonia,9
+Brickerville,Haines City,23
+Brickerville,Winder,17
+Brickerville,Dixie Inn,13
+Brickerville,McKees Rocks,5
+Brickerville,New Fairview,1
+Brickerville,Healdton,28
+Brickerville,Tamms,13
+Brickerville,Kingston Estates,12
+Brickerville,Bakerhill,3
+Brickerville,Country Club Heights,1
+Brickerville,Lafayette,24
+Brickerville,Costilla,3
+Brickerville,Theresa,12
+Brickerville,Jenks,24
+Brickerville,Fort Edward,26
+Brickerville,UPS4,2
+Brickerville,Weweantic,0
+Brickerville,Valley Cottage,8
+Brickerville,Onawa,14
+Brickerville,Ipswich,18
+Brickerville,Port Salerno,22
+Brickerville,Kokhanok,27
+Brickerville,Silverhill,15
+McLaughlin,Kokhanok,3
+McLaughlin,Bentleyville,16
+McLaughlin,Mason,8
+McLaughlin,Valley Cottage,1
+McLaughlin,Teton Village,17
+McLaughlin,Bakerhill,22
+McLaughlin,Marlboro Meadows,17
+McLaughlin,Jenks,13
+McLaughlin,Auburntown,25
+McLaughlin,Burnet,19
+McLaughlin,Milburn,10
+McLaughlin,Weweantic,27
+McLaughlin,Healdton,0
+McLaughlin,Fort Edward,19
+McLaughlin,Egg Harbor City,21
+McLaughlin,Dixie Inn,2
+McLaughlin,Gordonsville,10
+McLaughlin,UPS1,28
+McLaughlin,Valley Acres,23
+McLaughlin,New Fairview,1
+McLaughlin,Allison Park,15
+McLaughlin,Costilla,2
+McLaughlin,Ipswich,9
+McLaughlin,Samak,20
+McLaughlin,Winder,29
+McLaughlin,Grand Cane,16
+Grandville,Weweantic,10
+Grandville,Theresa,8
+Grandville,Teton Village,28
+Grandville,Bentleyville,5
+Grandville,St. Joe,27
+Grandville,Port Salerno,3
+Grandville,Wilber,4
+Grandville,Dixie Inn,4
+Grandville,UPS1,23
+Grandville,Bakerhill,6
+Grandville,Valley Acres,16
+Valley Acres,Fairport Harbor,10
+Valley Acres,Dixie Inn,3
+Valley Acres,Jenks,7
+Valley Acres,Costilla,26
+Valley Acres,Burnet,13
+Valley Acres,Garfield,13
+Valley Acres,Milburn,0
+Valley Acres,Onawa,19
+Valley Acres,UPS1,11
+Valley Acres,UPS2,11
+Valley Acres,Auburntown,5
+Valley Acres,Port Salerno,9
+Valley Acres,Samak,23
+Valley Acres,Fort Edward,13
+Valley Acres,New Roads,11
+Port Salerno,Wilber,3
+Port Salerno,Lafayette,4
+Port Salerno,Bakerhill,24
+Port Salerno,Fairport Harbor,21
+Port Salerno,Gordonsville,13
+Port Salerno,UPS2,1
+Port Salerno,Onawa,21
+Port Salerno,Bentleyville,19
+Port Salerno,Ipswich,10
+Port Salerno,Valley Cottage,1
+Port Salerno,Dixie Inn,13
+Port Salerno,Grand Cane,18
+Port Salerno,St. Benedict,4
+Port Salerno,Egg Harbor City,26
+Port Salerno,Auburntown,24
+Port Salerno,Haines City,6
+Port Salerno,Milburn,17
+Port Salerno,McKees Rocks,13
+Bakerhill,Tamms,8
+Bakerhill,Onawa,5
+Bakerhill,Gordonsville,15
+Bakerhill,Winder,29
+Bakerhill,Silverhill,19
+Bakerhill,Wilber,13
+Bakerhill,Valley Cottage,25
+Bakerhill,Burnet,10
+Bakerhill,Auburntown,27
+Bakerhill,New Roads,3
+Bakerhill,Kingston Estates,9
+Bakerhill,UPS2,2
+Bakerhill,New Fairview,23
+Bakerhill,Samak,2
+Winder,St. Benedict,23
+Winder,Costilla,24
+Winder,Bear Valley,16
+Winder,Marlboro Meadows,11
+Winder,Sterling,28
+Winder,UPS4,2
+Winder,Milburn,24
+Winder,Nephi,3
+Winder,Weweantic,6
+Winder,Ladonia,13
+Winder,Wilber,8
+Winder,Tamms,1
+Winder,Kingston Estates,9
+Winder,Mason,4
+Winder,UPS3,9
+Winder,Lafayette,19
+Winder,Kokhanok,25
+Winder,Valley Cottage,1
+Winder,New Fairview,25
+Winder,Ipswich,1
+Winder,Bentleyville,5
+Winder,Theresa,7
+Winder,Gordonsville,26
+Winder,Jenks,27
+Winder,Burnet,8
+Winder,St. Joe,12
+Winder,Teton Village,11
+Winder,Grand Cane,22
+Winder,Fairport Harbor,12
+Winder,UPS1,12
+Winder,Pingree,24
+Winder,Dixie Inn,1
+Winder,Silverhill,4
+Winder,Country Club Heights,26
+Winder,Allison Park,5
+Winder,McKees Rocks,28
+Winder,Fort Edward,0
+Winder,Onawa,26
+Winder,Healdton,2
+Winder,Haines City,0
+Winder,Egg Harbor City,23
+Winder,New Roads,18
+Winder,UPS0,23
+Teton Village,Tamms,22
+Teton Village,Valley Cottage,27
+Teton Village,Kingston Estates,11
+Teton Village,UPS4,9
+Teton Village,UPS3,11
+Teton Village,Healdton,11
+Teton Village,Garfield,21
+Teton Village,Wilber,26
+Teton Village,Dixie Inn,19
+Teton Village,Jenks,2
+Teton Village,Fairport Harbor,15
+Teton Village,Mason,9
+Teton Village,Country Club Heights,4
+Teton Village,UPS1,9
+Teton Village,Samak,20
+Teton Village,Bear Valley,17
+Teton Village,Gordonsville,22
+Teton Village,Marlboro Meadows,28
+Teton Village,Silverhill,0
+Teton Village,Egg Harbor City,17
+Teton Village,St. Joe,29
+Teton Village,Auburntown,27
+Teton Village,Kokhanok,4
+Teton Village,Sterling,13
+Teton Village,UPS0,6
+Teton Village,New Roads,15
+Teton Village,Nephi,28
+Teton Village,St. Benedict,9
+Teton Village,Burnet,14
+Teton Village,Onawa,16
+Teton Village,Ladonia,14
+Teton Village,Fort Edward,1
+Teton Village,Allison Park,9
+Teton Village,New Fairview,22
+Teton Village,Haines City,28
+Teton Village,McKees Rocks,6
+Teton Village,Costilla,7
+Teton Village,Pingree,28
+Teton Village,Grand Cane,13
+Teton Village,Ipswich,23
+Teton Village,UPS2,11
+Costilla,Fort Edward,29
+Costilla,Ladonia,22
+Costilla,Valley Cottage,14
+Costilla,Auburntown,17
+Costilla,Milburn,9
+Costilla,UPS4,26
+Costilla,Bear Valley,13
+Costilla,Silverhill,11
+Costilla,McKees Rocks,7
+Costilla,Theresa,29
+Costilla,UPS1,19
+Costilla,Ipswich,28
+Costilla,Healdton,6
+Costilla,Country Club Heights,24
+Costilla,Fairport Harbor,16
+Costilla,Pingree,20
+Costilla,Wilber,6
+Costilla,Grand Cane,23
+Costilla,Marlboro Meadows,8
+Costilla,Kingston Estates,24
+Costilla,Egg Harbor City,4
+Costilla,Bentleyville,13
+Costilla,Garfield,17
+Costilla,Gordonsville,2
+UPS0,Gordonsville,28
+UPS0,Milburn,19
+UPS0,Marlboro Meadows,1
+UPS0,New Roads,3
+UPS0,Healdton,6
+UPS0,Dixie Inn,6
+UPS0,Weweantic,6
+UPS0,Lafayette,9
+UPS0,Mason,7
+UPS0,UPS3,2
+UPS0,Valley Cottage,21
+UPS0,Kokhanok,23
+UPS0,Bear Valley,20
+UPS0,Allison Park,18
+UPS0,Egg Harbor City,19
+UPS0,Garfield,5
+UPS0,Auburntown,5
+UPS0,Kingston Estates,16
+UPS0,Pingree,11
+UPS0,Ipswich,10
+UPS0,Bentleyville,2
+UPS0,Silverhill,24
+UPS0,UPS2,10
+UPS0,Samak,29
+UPS0,McKees Rocks,9
+UPS0,Fort Edward,11
+UPS0,St. Benedict,18
+UPS0,Nephi,17
+UPS0,Ladonia,18
+Dixie Inn,Ladonia,26
+Dixie Inn,Burnet,23
+Dixie Inn,Garfield,22
+Dixie Inn,Auburntown,7
+Dixie Inn,Wilber,29
+Dixie Inn,UPS3,27
+Dixie Inn,Milburn,19
+Dixie Inn,Gordonsville,21
+Dixie Inn,Kingston Estates,18
+Dixie Inn,Nephi,13
+Dixie Inn,Valley Cottage,19
+Dixie Inn,Onawa,26
+Dixie Inn,Fort Edward,8
+Dixie Inn,Silverhill,0
+Dixie Inn,Sterling,24
+Dixie Inn,New Fairview,14
+Dixie Inn,Fairport Harbor,11
+Dixie Inn,Mason,9
+Dixie Inn,McKees Rocks,0
+Dixie Inn,St. Benedict,1
+Dixie Inn,Egg Harbor City,26
+Dixie Inn,Tamms,2
+Dixie Inn,Pingree,4
+Dixie Inn,Weweantic,16
+Dixie Inn,Healdton,29
+Dixie Inn,UPS4,25
+Wilber,Gordonsville,23
+Wilber,Fairport Harbor,3
+Wilber,UPS4,5
+Wilber,Burnet,27
+Wilber,McKees Rocks,7
+Wilber,Bentleyville,19
+Wilber,Garfield,4
+Wilber,St. Benedict,18
+Wilber,Milburn,3
+Wilber,Haines City,29
+Wilber,St. Joe,2
+Wilber,Kokhanok,0
+Wilber,Tamms,5
+Wilber,Healdton,28
+Wilber,New Fairview,24
+Wilber,Samak,20
+Wilber,Ladonia,3
+Wilber,Pingree,9
+Wilber,Weweantic,8
+Wilber,Nephi,6
+Wilber,Kingston Estates,0
+Wilber,Grand Cane,3
+Wilber,Marlboro Meadows,2
+Country Club Heights,McKees Rocks,0
+Country Club Heights,St. Benedict,25
+Country Club Heights,Bentleyville,18
+Country Club Heights,Samak,25
+Country Club Heights,Kingston Estates,16
+Country Club Heights,Tamms,10
+Country Club Heights,UPS3,17
+Country Club Heights,Mason,18
+Country Club Heights,Gordonsville,1
+Marlboro Meadows,Milburn,17
+Marlboro Meadows,UPS2,12
+Marlboro Meadows,Fort Edward,10
+Marlboro Meadows,Valley Cottage,22
+Marlboro Meadows,UPS1,19
+Marlboro Meadows,Fairport Harbor,26
+Marlboro Meadows,New Fairview,28
+Marlboro Meadows,Samak,0
+Marlboro Meadows,Bentleyville,1
+Marlboro Meadows,Mason,1
+Marlboro Meadows,Weweantic,17
+Marlboro Meadows,St. Benedict,24
+Marlboro Meadows,Gordonsville,8
+Marlboro Meadows,Kingston Estates,7
+Marlboro Meadows,Egg Harbor City,26
+Marlboro Meadows,St. Joe,26
+Marlboro Meadows,Kokhanok,26
+Marlboro Meadows,Tamms,13
+Marlboro Meadows,New Roads,5
+Marlboro Meadows,Silverhill,27
+Marlboro Meadows,UPS4,2
+Silverhill,UPS3,28
+Silverhill,Valley Cottage,7
+Silverhill,Fort Edward,0
+Silverhill,Onawa,9
+Silverhill,New Fairview,3
+Silverhill,Weweantic,20
+Silverhill,Nephi,24
+Silverhill,Bentleyville,26
+Silverhill,Bear Valley,16
+Silverhill,Kokhanok,1
+Silverhill,UPS4,15
+Silverhill,Haines City,27
+Silverhill,UPS1,27
+Silverhill,Garfield,3
+Silverhill,Lafayette,9
+Silverhill,Fairport Harbor,9
+Silverhill,Kingston Estates,26
+Silverhill,St. Benedict,20
+Silverhill,New Roads,24
+Silverhill,Theresa,15
+Silverhill,St. Joe,19
+Silverhill,Ladonia,1
+Silverhill,Milburn,9
+Silverhill,Tamms,25
+Silverhill,Grand Cane,28
+Silverhill,Mason,18
+Silverhill,McKees Rocks,12
+Silverhill,Allison Park,3
+McKees Rocks,Kokhanok,23
+Kokhanok,New Fairview,4
+Kokhanok,Gordonsville,15
+Kokhanok,Garfield,19
+Kokhanok,Bear Valley,28
+Kokhanok,Tamms,25
+Kokhanok,UPS3,5
+Kokhanok,Valley Cottage,26
+UPS4,St. Joe,12
+Sterling,Nephi,25
+Sterling,Egg Harbor City,15
+Sterling,St. Benedict,8
+Sterling,Healdton,5
+Sterling,Ipswich,13
+Sterling,Weweantic,21
+Sterling,Onawa,1
+Pingree,UPS2,7
+Pingree,Weweantic,5
+Pingree,St. Benedict,5
+Pingree,Auburntown,17
+Pingree,Fairport Harbor,25
+Pingree,Egg Harbor City,15
+Pingree,Burnet,20
+Pingree,Onawa,6
+Pingree,Lafayette,20
+Pingree,Gordonsville,27
+Pingree,Healdton,3
+Pingree,Grand Cane,8
+Pingree,Bentleyville,15
+Pingree,Bear Valley,1
+Pingree,Samak,12
+Pingree,New Roads,28
+Pingree,Fort Edward,29
+Pingree,UPS3,19
+Pingree,Haines City,17
+Pingree,Mason,26
+Kingston Estates,Milburn,9
+Kingston Estates,Fort Edward,0
+Kingston Estates,Ladonia,20
+Kingston Estates,Lafayette,18
+Kingston Estates,Theresa,22
+Kingston Estates,Valley Cottage,28
+Kingston Estates,Bear Valley,4
+Kingston Estates,Onawa,23
+Kingston Estates,St. Joe,18
+Kingston Estates,Nephi,0
+Kingston Estates,Grand Cane,23
+Kingston Estates,St. Benedict,23
+Kingston Estates,Burnet,29
+Kingston Estates,Weweantic,24
+Kingston Estates,Haines City,21
+Kingston Estates,Ipswich,18
+Kingston Estates,UPS1,24
+Kingston Estates,Samak,18
+Kingston Estates,New Fairview,11
+Kingston Estates,UPS3,1
+Kingston Estates,Healdton,3
+Kingston Estates,Jenks,6
+Kingston Estates,Fairport Harbor,18
+Kingston Estates,New Roads,9
+Kingston Estates,Gordonsville,2
+Kingston Estates,Mason,3
+Kingston Estates,UPS2,14
+Kingston Estates,Bentleyville,13
+Kingston Estates,Auburntown,6
+Kingston Estates,Tamms,2
+Fort Edward,New Roads,15
+Fort Edward,Bentleyville,8
+Fort Edward,UPS1,14
+Fort Edward,Auburntown,6
+Fort Edward,Allison Park,14
+Fort Edward,St. Joe,20
+Fort Edward,Valley Cottage,4
+Fort Edward,Nephi,20
+Fort Edward,Milburn,21
+Fort Edward,Egg Harbor City,14
+Fort Edward,UPS2,24
+Fort Edward,Garfield,11
+Fort Edward,Weweantic,20
+Fort Edward,Tamms,17
+Fort Edward,St. Benedict,21
+Fort Edward,Bear Valley,10
+Fort Edward,Healdton,27
+Fort Edward,Gordonsville,9
+Fort Edward,Onawa,12
+Fort Edward,Mason,13
+Fort Edward,Ipswich,24
+Fort Edward,Haines City,18
+Fort Edward,Burnet,2
+Fort Edward,Fairport Harbor,8
+Fort Edward,Lafayette,4
+Fort Edward,UPS3,13
+Fort Edward,Samak,4
+Fort Edward,Jenks,0
+Fort Edward,Theresa,9
+Egg Harbor City,Gordonsville,13
+Egg Harbor City,Haines City,4
+Egg Harbor City,Fairport Harbor,2
+Theresa,Fairport Harbor,5
+UPS3,Weweantic,25
+UPS3,Gordonsville,26
+UPS3,Bear Valley,8
+UPS3,UPS2,14
+UPS3,Jenks,18
+UPS3,Allison Park,20
+UPS3,Haines City,23
+UPS3,Fairport Harbor,17
+UPS3,New Fairview,6
+UPS3,Onawa,3
+UPS3,Tamms,13
+UPS3,Healdton,17
+UPS3,Grand Cane,7
+UPS3,Burnet,21
+UPS3,Nephi,23
+UPS3,UPS1,24
+UPS3,Samak,26
+UPS3,Bentleyville,13
+UPS3,Lafayette,2
+UPS3,Ladonia,18
+UPS3,Garfield,27
+UPS3,Auburntown,4
+UPS3,Valley Cottage,13
+UPS3,New Roads,15
+UPS3,Milburn,15
+UPS3,St. Joe,27
+Tamms,St. Benedict,5
+Tamms,Grand Cane,3
+Tamms,Bear Valley,0
+Tamms,UPS1,24
+Tamms,New Roads,24
+Tamms,St. Joe,24
+Tamms,Gordonsville,8
+Tamms,Onawa,21
+Tamms,Fairport Harbor,15
+Tamms,Samak,4
+Tamms,New Fairview,15
+Tamms,Ladonia,17
+Tamms,Jenks,0
+Tamms,Burnet,6
+Tamms,Nephi,18
+Tamms,Milburn,13
+Tamms,Ipswich,20
+Tamms,Valley Cottage,3
+Tamms,UPS2,27
+Fairport Harbor,Milburn,13
+Fairport Harbor,UPS2,10
+Fairport Harbor,Healdton,14
+Fairport Harbor,Weweantic,25
+Fairport Harbor,UPS1,24
+Milburn,Auburntown,13
+Lafayette,Jenks,22
+Lafayette,Allison Park,28
+Lafayette,Samak,5
+Lafayette,Weweantic,16
+Lafayette,Haines City,19
+Lafayette,New Roads,14
+Lafayette,Mason,19
+Lafayette,Ipswich,18
+Lafayette,Healdton,1
+Lafayette,Auburntown,7
+Lafayette,UPS1,17
+Lafayette,Onawa,18
+Lafayette,Bentleyville,26
+Lafayette,Nephi,25
+Lafayette,UPS2,20
+Lafayette,Grand Cane,16
+Lafayette,Ladonia,7
+Lafayette,Gordonsville,27
+Lafayette,New Fairview,23
+New Roads,Haines City,10
+New Roads,St. Benedict,16
+New Roads,Healdton,29
+New Roads,Bear Valley,5
+New Roads,Valley Cottage,2
+New Roads,Bentleyville,6
+New Roads,Allison Park,6
+New Roads,Gordonsville,10
+New Roads,St. Joe,22
+New Roads,Jenks,15
+New Roads,Auburntown,12
+New Roads,Burnet,8
+New Roads,Garfield,23
+New Roads,Ladonia,0
+New Roads,Mason,19
+New Roads,Ipswich,5
+New Roads,Nephi,17
+New Roads,UPS1,5
+New Roads,Grand Cane,0
+New Roads,New Fairview,29
+New Roads,Weweantic,24
+New Roads,Onawa,4
+New Roads,UPS2,27
+Grand Cane,Mason,9
+Grand Cane,Jenks,28
+Grand Cane,Gordonsville,17
+Grand Cane,Haines City,0
+Grand Cane,Samak,26
+Grand Cane,Bear Valley,26
+Grand Cane,Weweantic,28
+Grand Cane,Healdton,6
+Grand Cane,St. Joe,22
+Grand Cane,Auburntown,20
+Grand Cane,Ipswich,29
+Grand Cane,Bentleyville,1
+Grand Cane,UPS2,5
+Grand Cane,St. Benedict,11
+Grand Cane,New Fairview,16
+Grand Cane,Ladonia,22
+Grand Cane,UPS1,5
+Grand Cane,Burnet,6
+Jenks,Garfield,15
+Jenks,Auburntown,21
+Jenks,St. Joe,1
+Jenks,Mason,18
+Jenks,Bentleyville,21
+Jenks,Ladonia,23
+Jenks,Burnet,11
+Jenks,Healdton,27
+Jenks,Ipswich,12
+Jenks,Haines City,2
+Jenks,St. Benedict,22
+Jenks,Valley Cottage,18
+Jenks,Bear Valley,27
+Jenks,UPS1,27
+Jenks,UPS2,19
+Jenks,Samak,28
+Jenks,Weweantic,11
+Jenks,New Fairview,17
+Jenks,Allison Park,29
+Jenks,Onawa,3
+UPS2,Samak,1
+UPS2,Ladonia,12
+UPS2,Gordonsville,6
+UPS2,New Fairview,9
+UPS2,Haines City,12
+UPS2,Nephi,2
+UPS2,Garfield,21
+UPS2,Auburntown,29
+UPS2,Healdton,14
+UPS2,UPS1,29
+UPS2,Bear Valley,5
+St. Benedict,Gordonsville,13
+St. Benedict,Healdton,8
+St. Benedict,Valley Cottage,0
+St. Benedict,Garfield,23
+St. Benedict,Ipswich,17
+St. Benedict,Bentleyville,20
+St. Benedict,Haines City,7
+St. Benedict,Weweantic,26
+St. Benedict,Mason,4
+St. Benedict,Bear Valley,18
+St. Benedict,UPS1,7
+St. Benedict,Samak,2
+St. Benedict,Auburntown,20
+St. Benedict,Burnet,14
+Nephi,Allison Park,18
+Nephi,UPS1,2
+Nephi,New Fairview,27
+Nephi,Gordonsville,21
+Nephi,Ipswich,22
+Nephi,Garfield,27
+Nephi,Ladonia,9
+Nephi,Weweantic,24
+Nephi,Mason,0
+Nephi,Healdton,8
+Nephi,Bentleyville,29
+Onawa,Bear Valley,22
+Onawa,UPS1,1
+Onawa,Bentleyville,3
+Onawa,Burnet,13
+Onawa,Mason,20
+Valley Cottage,Auburntown,29
+Valley Cottage,Allison Park,8
+Valley Cottage,Gordonsville,21
+Valley Cottage,Ipswich,19
+Valley Cottage,Burnet,15
+Valley Cottage,Healdton,22
+Valley Cottage,Ladonia,6
+Valley Cottage,Samak,6
+Valley Cottage,Garfield,13
+Valley Cottage,Bear Valley,22
+Ladonia,Gordonsville,26
+Ipswich,UPS1,4
+Ipswich,St. Joe,22
+Ipswich,Gordonsville,28
+Ipswich,Allison Park,3
+Ipswich,Bear Valley,26
+Ipswich,Mason,10
+Ipswich,Healdton,14
+Ipswich,Burnet,25
+Ipswich,Weweantic,18
+Ipswich,Samak,11
+Ipswich,Garfield,8
+Mason,St. Joe,27
+Mason,Gordonsville,15
+Mason,Garfield,17
+Mason,Weweantic,11
+Mason,Bear Valley,17
+Mason,Burnet,12
+Mason,Samak,24
+Mason,UPS1,20
+Healdton,Samak,12
+Healdton,Weweantic,11
+Burnet,St. Joe,16
+Burnet,Samak,10
+Burnet,Allison Park,20
+Burnet,UPS1,25
+Burnet,New Fairview,13
+Burnet,Garfield,19
+Burnet,Weweantic,8
+Burnet,Gordonsville,11
+Burnet,Bentleyville,0
+Gordonsville,Weweantic,20
+Gordonsville,New Fairview,19
+Gordonsville,Auburntown,25
+Gordonsville,UPS1,17
+Gordonsville,Allison Park,25
+Gordonsville,Bear Valley,20
+New Fairview,Bentleyville,0
+New Fairview,Auburntown,17
+New Fairview,UPS1,1
+New Fairview,St. Joe,22
+Garfield,Weweantic,0
+Garfield,Auburntown,2
+Garfield,Bentleyville,1
+Garfield,Allison Park,13
+Garfield,Bear Valley,21
+Garfield,St. Joe,26
+Bentleyville,St. Joe,5
+Bentleyville,Allison Park,7
+Bentleyville,Samak,7
+Allison Park,Weweantic,16
+Allison Park,UPS1,9
+Allison Park,St. Joe,25
+Allison Park,Auburntown,7
+Allison Park,Samak,15
+UPS1,Auburntown,6
+UPS1,Weweantic,26
+UPS1,Samak,17
+Samak,Auburntown,2
+Bear Valley,Weweantic,20

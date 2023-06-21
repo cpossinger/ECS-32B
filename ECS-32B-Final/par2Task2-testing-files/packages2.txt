@@ -1,0 +1,32 @@
+pk0,UPS0,Kingston Estates
+pk1,UPS0,McKees Rocks
+pk2,UPS0,Winder
+pk3,UPS0,Healdton
+pk4,UPS1,Fairport Harbor
+pk5,UPS1,Fairport Harbor
+pk6,UPS1,Costilla
+pk7,UPS1,Grand Cane
+pk8,UPS1,Brickerville
+pk9,UPS1,Kokhanok
+pk10,UPS1,Fort Edward
+pk11,UPS2,Bentleyville
+pk12,UPS2,Kingston Estates
+pk13,UPS2,Egg Harbor City
+pk14,UPS2,Country Club Heights
+pk15,UPS2,Marlboro Meadows
+pk16,UPS2,Weweantic
+pk17,UPS2,Costilla
+pk18,UPS2,McKees Rocks
+pk19,UPS2,McLaughlin
+pk20,UPS2,Valley Acres
+pk21,UPS2,Grandville
+pk22,UPS2,Brickerville
+pk23,UPS2,Haines City
+pk24,UPS2,Nephi
+pk25,UPS3,Tamms
+pk26,UPS3,Kokhanok
+pk27,UPS3,McKees Rocks
+pk28,UPS3,St. Joe
+pk29,UPS3,Fairport Harbor
+pk30,UPS3,Pingree
+pk31,UPS4,McKees Rocks

@@ -1,0 +1,76 @@
+pk0,UPS0,Lost Hills
+pk1,UPS0,Govan
+pk2,UPS0,Eskridge
+pk3,UPS0,Meddakandawatta
+pk4,UPS0,Trezevant
+pk5,UPS0,Springdale
+pk6,UPS2,Nisset
+pk7,UPS2,Bierre
+pk8,UPS2,Gadeby
+pk9,UPS2,Malgomuwa
+pk10,UPS2,Jayuya
+pk11,UPS3,Murphysboro
+pk12,UPS3,Gurumadittagoda
+pk13,UPS3,Pamburn
+pk14,UPS3,Marineland
+pk15,UPS4,Balfour
+pk16,UPS4,Kanahela East
+pk17,UPS4,Halkevad
+pk18,UPS5,Kiriwavula
+pk19,UPS5,Alume
+pk20,UPS6,Waitville
+pk21,UPS7,Elloree
+pk22,UPS7,North Redington Beach
+pk23,UPS7,Baljennie
+pk24,UPS7,Kongonimulai
+pk25,UPS8,Lost Hills
+pk26,UPS8,Piapot
+pk27,UPS8,Panikkankulama
+pk28,UPS8,Kammaltera
+pk29,UPS8,Pahala Labbala
+pk30,UPS8,Grande Cache
+pk31,UPS9,Metagama
+pk32,UPS9,Akunadiwela
+pk33,UPS9,Bilby
+pk34,UPS9,Admiral
+pk35,UPS10,Rostved
+pk36,UPS10,Tornemark
+pk37,UPS10,Lost Hills
+pk38,UPS10,Baljennie
+pk39,UPS10,Nisset
+pk40,UPS11,Mina
+pk41,UPS11,Abeytas
+pk42,UPS11,Eskridge
+pk43,UPS11,Campti
+pk44,UPS11,Springdale
+pk45,UPS11,Gonatippola
+pk46,UPS12,Heaslip
+pk47,UPS12,Lejbjerg
+pk48,UPS12,Manitouwadge
+pk49,UPS12,Kiriwavula
+pk50,UPS12,Pinnalanda
+pk51,UPS12,Trezevant
+pk52,UPS13,Ranawaranawewa
+pk53,UPS13,Admiral
+pk54,UPS13,Koratuwagoda
+pk55,UPS13,Muttettupatuwa
+pk56,UPS13,Canonsburg
+pk57,UPS14,Gurumadittagoda
+pk58,UPS14,Migas-Ara
+pk59,UPS14,Uduwilagoda
+pk60,UPS14,Brazeou
+pk61,UPS15,Freilev
+pk62,UPS15,Bierre
+pk63,UPS15,Gullev
+pk64,UPS16,Skuerup
+pk65,UPS16,Eskridge
+pk66,UPS17,Colpton
+pk67,UPS17,Skandia
+pk68,UPS17,Lost Hills
+pk69,UPS18,Orulotagama
+pk70,UPS19,Thy
+pk71,UPS19,Marineland
+pk72,UPS19,Alume
+pk73,UPS19,Karaiyankulam
+pk74,UPS19,Powhattan
+pk75,UPS19,Hidogama
